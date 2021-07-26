@@ -1,12 +1,12 @@
 # CodeSkills
-cleancode
+# cleancode
 
 Section about clean code principles and how I handle them. 
 
 Includes before & afterwards code pieces.
 
 
-codetests
+# codetests
 
 Collection of code challenges and my solutions for them.
 
