@@ -25,7 +25,7 @@ public class BOPO {
     }
 
     /**
-     * coder wants to have the method also add an element X.
+     * coder wants to have the method also add an element X after each printing.
      */
 
     private final String X = "Coder wish changes code.";
