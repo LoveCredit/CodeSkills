@@ -6,7 +6,7 @@ package cleancode;
  * Using composition nurtures decoupling.
  *
  * Task: Create an example where composition is better than inheritance.
- * Solution:
+ * Solution: Based on given classes exchanging a composition part is easier than a parent class
  */
 public class FCoI {
 
