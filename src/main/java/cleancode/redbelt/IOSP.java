@@ -1,4 +1,4 @@
-package cleancode;
+package cleancode.redbelt;
 
 /**
  * Integration Operation Segregation Principle (IOSP)
@@ -31,6 +31,4 @@ public class IOSP {
     private int operationMethod(int i) {
         return ++i;
     }
-
-
 }

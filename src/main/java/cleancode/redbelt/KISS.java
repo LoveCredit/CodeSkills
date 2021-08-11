@@ -1,4 +1,4 @@
-package cleancode;
+package cleancode.redbelt;
 
 import java.util.ArrayList;
 import java.util.List;

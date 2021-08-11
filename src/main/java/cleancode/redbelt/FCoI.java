@@ -1,4 +1,4 @@
-package cleancode;
+package cleancode.redbelt;
 
 /**
  * Favour Composition over Inheritance (FCoI)
